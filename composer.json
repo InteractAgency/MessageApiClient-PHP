@@ -1,0 +1,18 @@
+{
+  "name": "InteractAgency/MessageApiClient-PHP",
+  "description": "RingRing Message API Client",
+  "authors": [
+    {
+      "name": "Interact Agency",
+      "email": "opierre@interact.lu"
+    }
+  ],
+  "require": {
+    "php": "^7.1.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "RingRing\\": "RingRing/"
+    }
+  }
+}
